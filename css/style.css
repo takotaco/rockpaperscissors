@@ -1,9 +1,21 @@
 .row{
   text-align:center;
-  
+
 }
 #choices{
   display:flex;
   justify-content:space-between;
-  
+
+}
+
+.userChoice {
+	font: Arial;
+	color: black;
+	text-align: center;
+	font-size: 25px;
+	font-weight: 300;
+	padding: 4px;
+	margin: 8px;
+	border-radius: 4px;
+	border: 1px solid blue;
 }
